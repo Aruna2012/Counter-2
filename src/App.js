@@ -11,6 +11,8 @@ const comment = {
   }
 };
 
+console.log('Hello world');
+
 
 function App(props) {
   return (
